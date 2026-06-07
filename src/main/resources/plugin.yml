@@ -1,0 +1,4 @@
+name: dynamic-motd
+version: '1.0-SNAPSHOT'
+main: com.github.syu6noob.dynamicMotd.DynamicMotd
+api-version: '1.21'
