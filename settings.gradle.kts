@@ -1,1 +1,1 @@
-rootProject.name = "dynamic-motd"
+rootProject.name = "DynamicMotd"
